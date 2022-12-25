@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" commit="d6c45d38f3fe01501fcb65974bb41981bfb484fa" name="Fleeesch Reapack Repositories">
+<index version="1" commit="99306cb649a151244798c319f9b0b44edb0533e5" name="Fleeesch Reapack Repositories">
   <category name="ReaScripts">
     <reapack name="dirt scripts.lua" type="script" desc="Dirt Scripts">
       <version name="1.0" time="2022-12-25T20:28:05Z">
@@ -19,6 +19,13 @@
       </version>
       <version name="1.4" author="Fleeesch" time="2022-12-25T20:54:31Z">
         <source file="Dirt Scripts/_dirt_functions">https://github.com/Fleeesch/Reapack-Repositories/raw/1ff2f7d0b10d14013ff3987b3ddab1b5dbfd56b2/ReaScripts/Dirt%20Scripts/_dirt_functions</source>
+      </version>
+      <version name="1.5" author="Fleeesch" time="2022-12-25T21:00:59Z">
+        <source file="Dirt Scripts/_dirt_functions">https://github.com/Fleeesch/Reapack-Repositories/raw/99306cb649a151244798c319f9b0b44edb0533e5/ReaScripts/Dirt%20Scripts/_dirt_functions</source>
+        <source main="main" file="Dirt Scripts/Fleeesch - Dirt - Load Set 1.lua">https://github.com/Fleeesch/Reapack-Repositories/raw/99306cb649a151244798c319f9b0b44edb0533e5/ReaScripts/Dirt%20Scripts/Fleeesch%20-%20Dirt%20-%20Load%20Set%201.lua</source>
+        <source main="main" file="Dirt Scripts/Fleeesch - Dirt - Load Set 2.lua">https://github.com/Fleeesch/Reapack-Repositories/raw/99306cb649a151244798c319f9b0b44edb0533e5/ReaScripts/Dirt%20Scripts/Fleeesch%20-%20Dirt%20-%20Load%20Set%202.lua</source>
+        <source main="main" file="Dirt Scripts/Fleeesch - Dirt - Load Set 3.lua">https://github.com/Fleeesch/Reapack-Repositories/raw/99306cb649a151244798c319f9b0b44edb0533e5/ReaScripts/Dirt%20Scripts/Fleeesch%20-%20Dirt%20-%20Load%20Set%203.lua</source>
+        <source main="main" file="Dirt Scripts/Fleeesch - Dirt - Load Set 4.lua">https://github.com/Fleeesch/Reapack-Repositories/raw/99306cb649a151244798c319f9b0b44edb0533e5/ReaScripts/Dirt%20Scripts/Fleeesch%20-%20Dirt%20-%20Load%20Set%204.lua</source>
       </version>
     </reapack>
   </category>
