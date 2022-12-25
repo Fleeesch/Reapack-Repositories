@@ -1,4 +1,3 @@
--- @version 1.1
 
 local info = debug.getinfo(1,'S');
 script_path = info.source:match[[^@?(.*[\/])[^\/]-$]]
