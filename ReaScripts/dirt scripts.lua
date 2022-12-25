@@ -1,7 +1,7 @@
 -- @description Dirt Scripts
 -- @version 1.0.1
 -- @author Fleeesch
--- @version 1.0
+-- @version 1.1
 -- @provides
 --    DirtScripts/_dirt_functions
 --   [main] DirtScripts/*.lua
