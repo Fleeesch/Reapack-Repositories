@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" commit="0386d61971fa32d6b9a6d3de549b3b3ff76e9eea" name="Fleeesch Reapack Repositories">
+<index version="1" commit="0fad2b113be50fc985b0984c099a5b24fe5c0421" name="Fleeesch Reapack Repositories">
   <category name="Themes">
     <reapack name="dirt.theme" type="theme" desc="Dirt">
       <metadata>
@@ -30,6 +30,11 @@
         <source file="Dirt (Git) - Dark (Windows 10).ReaparThemeZip">https://github.com/Fleeesch/DiRT/releases/download/Release/Dirt.-.Dark.-.Win.10.ReaperThemeZip</source>
         <source file="Dirt (Git) - Dark.ReaparThemeZip">https://github.com/Fleeesch/DiRT/releases/download/Release/Dirt.-.Dark.ReaperThemeZip</source>
         <source file="Dirt (Git) - Light.ReaparThemeZip">https://github.com/Fleeesch/DiRT/releases/download/Release/Dirt.-.Light.ReaperThemeZip</source>
+      </version>
+    </reapack>
+    <reapack name="Fleeesch - Dirt - Apply to all Sets.lua" type="script" desc="Apply to all sets">
+      <version name="1.0" author="Fleeesch" time="2022-12-25T20:12:53Z">
+        <source main="main">https://github.com/Fleeesch/Reapack-Repositories/raw/0fad2b113be50fc985b0984c099a5b24fe5c0421/Themes/Fleeesch%20-%20Dirt%20-%20Apply%20to%20all%20Sets.lua</source>
       </version>
     </reapack>
   </category>
