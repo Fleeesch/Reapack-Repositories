@@ -1,2 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="Fleeesch Reapack Repositories"/>
+<index version="1" name="Fleeesch Reapack Repositories" commit="4fae6f10c20aa663b60abeb1a3ccf971e20737e3">
+  <category name="Category">
+    <reapack name="dirt.theme" type="theme" desc="Dirt">
+      <version name="1.0" author="Fleeesch" time="2022-12-25T19:01:29Z">
+        <source file="Themefile.zip">https://github.com/Fleeesch/DiRT/releases/download/Release/Dirt.-.Light.ReaperThemeZip</source>
+      </version>
+    </reapack>
+  </category>
+</index>
