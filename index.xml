@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="Fleeesch Reapack Repositories" commit="a410cefe5d0cac152e7cc0a1b4c5b57ecbe97ead">
+<index version="1" name="Fleeesch Reapack Repositories" commit="69894f08abd196ce9d085b1ff5498837ea048d46">
   <category name="Category">
     <reapack name="dirt.theme" type="theme" desc="Dirt">
       <metadata>
@@ -14,6 +14,10 @@
       </metadata>
       <version name="1.0" author="Fleeesch" time="2022-12-25T19:01:29Z">
         <source file="Themefile.zip">https://github.com/Fleeesch/DiRT/releases/download/Release/Dirt.-.Light.ReaperThemeZip</source>
+      </version>
+      <version name="1.1" author="Fleeesch" time="2022-12-25T19:11:23Z">
+        <changelog><![CDATA[Minor Changes]]></changelog>
+        <source file="Dirt (Git) - Light.zip">https://github.com/Fleeesch/DiRT/releases/download/Release/Dirt.-.Light.ReaperThemeZip</source>
       </version>
     </reapack>
   </category>
