@@ -1,10 +1,110 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" commit="13c2d6344547eea17aa668e1856e904af32da001" name="Fleeesch Reapack Repositories">
+<index version="1" commit="95a88a74d30369cbb74ae33ec17afcf05408aa60" name="Fleeesch Reapack Repositories">
   <category name="ReaScripts">
     <reapack name="dirt scripts.lua" type="script" desc="Dirt Scripts">
       <version name="1.0" time="2022-12-25T20:28:05Z">
         <source file="script_a.lua">https://github.com/Fleeesch/Reapack-Repositories/raw/2b2a5371b7a52abb64f28b5323a77ea6ccb3700c/ReaScripts/script_a.lua</source>
         <source main="main" file="script_lib">https://github.com/Fleeesch/Reapack-Repositories/raw/2b2a5371b7a52abb64f28b5323a77ea6ccb3700c/ReaScripts/script_lib</source>
+      </version>
+      <version name="1.1" author="Fleeesch" time="2022-12-25T20:38:36Z">
+        <source main="main">https://github.com/Fleeesch/Reapack-Repositories/raw/1aa13b5c0363df8b5348c15ef695060a34c707cd/ReaScripts/dirt%20scripts.lua</source>
+        <source file="DirtScripts/_dirt_functions">https://github.com/Fleeesch/Reapack-Repositories/raw/1aa13b5c0363df8b5348c15ef695060a34c707cd/ReaScripts/DirtScripts/_dirt_functions</source>
+      </version>
+      <version name="1.2" author="Fleeesch" time="2022-12-25T20:40:16Z">
+        <source main="main">https://github.com/Fleeesch/Reapack-Repositories/raw/336fb4847e0d4a7dddb29b017238b8e1f4d3aaee/ReaScripts/dirt%20scripts.lua</source>
+        <source file="DirtScripts/_dirt_functions">https://github.com/Fleeesch/Reapack-Repositories/raw/336fb4847e0d4a7dddb29b017238b8e1f4d3aaee/ReaScripts/DirtScripts/_dirt_functions</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="ReaScripts/DirtScripts">
+    <reapack name="Fleeesch - Dirt - Apply to all Sets.lua" type="script">
+      <version name="1.1" time="2022-12-25T20:39:46Z">
+        <source main="main">https://github.com/Fleeesch/Reapack-Repositories/raw/b95a292e258f3e9d49bb7dbe102ec061f2a2258e/ReaScripts/DirtScripts/Fleeesch%20-%20Dirt%20-%20Apply%20to%20all%20Sets.lua</source>
+      </version>
+    </reapack>
+    <reapack name="Fleeesch - Dirt - Load Set 1.lua" type="script">
+      <version name="1.1" time="2022-12-25T20:39:46Z">
+        <source main="main">https://github.com/Fleeesch/Reapack-Repositories/raw/b95a292e258f3e9d49bb7dbe102ec061f2a2258e/ReaScripts/DirtScripts/Fleeesch%20-%20Dirt%20-%20Load%20Set%201.lua</source>
+      </version>
+    </reapack>
+    <reapack name="Fleeesch - Dirt - Load Set 2.lua" type="script">
+      <version name="1.1" time="2022-12-25T20:39:46Z">
+        <source main="main">https://github.com/Fleeesch/Reapack-Repositories/raw/b95a292e258f3e9d49bb7dbe102ec061f2a2258e/ReaScripts/DirtScripts/Fleeesch%20-%20Dirt%20-%20Load%20Set%202.lua</source>
+      </version>
+    </reapack>
+    <reapack name="Fleeesch - Dirt - Load Set 3.lua" type="script">
+      <version name="1.1" time="2022-12-25T20:39:46Z">
+        <source main="main">https://github.com/Fleeesch/Reapack-Repositories/raw/b95a292e258f3e9d49bb7dbe102ec061f2a2258e/ReaScripts/DirtScripts/Fleeesch%20-%20Dirt%20-%20Load%20Set%203.lua</source>
+      </version>
+    </reapack>
+    <reapack name="Fleeesch - Dirt - Load Set 4.lua" type="script">
+      <version name="1.1" time="2022-12-25T20:39:46Z">
+        <source main="main">https://github.com/Fleeesch/Reapack-Repositories/raw/b95a292e258f3e9d49bb7dbe102ec061f2a2258e/ReaScripts/DirtScripts/Fleeesch%20-%20Dirt%20-%20Load%20Set%204.lua</source>
+      </version>
+    </reapack>
+    <reapack name="Fleeesch - Dirt - Load Set 5.lua" type="script">
+      <version name="1.1" time="2022-12-25T20:39:46Z">
+        <source main="main">https://github.com/Fleeesch/Reapack-Repositories/raw/b95a292e258f3e9d49bb7dbe102ec061f2a2258e/ReaScripts/DirtScripts/Fleeesch%20-%20Dirt%20-%20Load%20Set%205.lua</source>
+      </version>
+    </reapack>
+    <reapack name="Fleeesch - Dirt - Load Set 6.lua" type="script">
+      <version name="1.1" time="2022-12-25T20:39:46Z">
+        <source main="main">https://github.com/Fleeesch/Reapack-Repositories/raw/b95a292e258f3e9d49bb7dbe102ec061f2a2258e/ReaScripts/DirtScripts/Fleeesch%20-%20Dirt%20-%20Load%20Set%206.lua</source>
+      </version>
+    </reapack>
+    <reapack name="Fleeesch - Dirt - Load Set 7.lua" type="script">
+      <version name="1.1" time="2022-12-25T20:39:46Z">
+        <source main="main">https://github.com/Fleeesch/Reapack-Repositories/raw/b95a292e258f3e9d49bb7dbe102ec061f2a2258e/ReaScripts/DirtScripts/Fleeesch%20-%20Dirt%20-%20Load%20Set%207.lua</source>
+      </version>
+    </reapack>
+    <reapack name="Fleeesch - Dirt - Load Set 8.lua" type="script">
+      <version name="1.1" time="2022-12-25T20:39:46Z">
+        <source main="main">https://github.com/Fleeesch/Reapack-Repositories/raw/b95a292e258f3e9d49bb7dbe102ec061f2a2258e/ReaScripts/DirtScripts/Fleeesch%20-%20Dirt%20-%20Load%20Set%208.lua</source>
+      </version>
+    </reapack>
+    <reapack name="Fleeesch - Dirt - Options - Autosave Set on Switch.lua" type="script">
+      <version name="1.1" time="2022-12-25T20:39:46Z">
+        <source main="main">https://github.com/Fleeesch/Reapack-Repositories/raw/b95a292e258f3e9d49bb7dbe102ec061f2a2258e/ReaScripts/DirtScripts/Fleeesch%20-%20Dirt%20-%20Options%20-%20Autosave%20Set%20on%20Switch.lua</source>
+      </version>
+    </reapack>
+    <reapack name="Fleeesch - Dirt - Save Set 1.lua" type="script">
+      <version name="1.1" time="2022-12-25T20:39:46Z">
+        <source main="main">https://github.com/Fleeesch/Reapack-Repositories/raw/b95a292e258f3e9d49bb7dbe102ec061f2a2258e/ReaScripts/DirtScripts/Fleeesch%20-%20Dirt%20-%20Save%20Set%201.lua</source>
+      </version>
+    </reapack>
+    <reapack name="Fleeesch - Dirt - Save Set 2.lua" type="script">
+      <version name="1.1" time="2022-12-25T20:39:46Z">
+        <source main="main">https://github.com/Fleeesch/Reapack-Repositories/raw/b95a292e258f3e9d49bb7dbe102ec061f2a2258e/ReaScripts/DirtScripts/Fleeesch%20-%20Dirt%20-%20Save%20Set%202.lua</source>
+      </version>
+    </reapack>
+    <reapack name="Fleeesch - Dirt - Save Set 3.lua" type="script">
+      <version name="1.1" time="2022-12-25T20:39:46Z">
+        <source main="main">https://github.com/Fleeesch/Reapack-Repositories/raw/b95a292e258f3e9d49bb7dbe102ec061f2a2258e/ReaScripts/DirtScripts/Fleeesch%20-%20Dirt%20-%20Save%20Set%203.lua</source>
+      </version>
+    </reapack>
+    <reapack name="Fleeesch - Dirt - Save Set 4.lua" type="script">
+      <version name="1.1" time="2022-12-25T20:39:46Z">
+        <source main="main">https://github.com/Fleeesch/Reapack-Repositories/raw/b95a292e258f3e9d49bb7dbe102ec061f2a2258e/ReaScripts/DirtScripts/Fleeesch%20-%20Dirt%20-%20Save%20Set%204.lua</source>
+      </version>
+    </reapack>
+    <reapack name="Fleeesch - Dirt - Save Set 5.lua" type="script">
+      <version name="1.1" time="2022-12-25T20:39:46Z">
+        <source main="main">https://github.com/Fleeesch/Reapack-Repositories/raw/b95a292e258f3e9d49bb7dbe102ec061f2a2258e/ReaScripts/DirtScripts/Fleeesch%20-%20Dirt%20-%20Save%20Set%205.lua</source>
+      </version>
+    </reapack>
+    <reapack name="Fleeesch - Dirt - Save Set 6.lua" type="script">
+      <version name="1.1" time="2022-12-25T20:39:46Z">
+        <source main="main">https://github.com/Fleeesch/Reapack-Repositories/raw/b95a292e258f3e9d49bb7dbe102ec061f2a2258e/ReaScripts/DirtScripts/Fleeesch%20-%20Dirt%20-%20Save%20Set%206.lua</source>
+      </version>
+    </reapack>
+    <reapack name="Fleeesch - Dirt - Save Set 7.lua" type="script">
+      <version name="1.1" time="2022-12-25T20:39:46Z">
+        <source main="main">https://github.com/Fleeesch/Reapack-Repositories/raw/b95a292e258f3e9d49bb7dbe102ec061f2a2258e/ReaScripts/DirtScripts/Fleeesch%20-%20Dirt%20-%20Save%20Set%207.lua</source>
+      </version>
+    </reapack>
+    <reapack name="Fleeesch - Dirt - Save Set 8.lua" type="script">
+      <version name="1.1" time="2022-12-25T20:39:46Z">
+        <source main="main">https://github.com/Fleeesch/Reapack-Repositories/raw/b95a292e258f3e9d49bb7dbe102ec061f2a2258e/ReaScripts/DirtScripts/Fleeesch%20-%20Dirt%20-%20Save%20Set%208.lua</source>
       </version>
     </reapack>
   </category>
@@ -19,11 +119,18 @@
 }
 ]]></description>
       </metadata>
-      <version name="1.3" author="Fleeesch" time="2022-12-25T19:25:24Z">
+      <version name="1.2" author="Fleeesch" time="2022-12-25T19:25:24Z">
         <changelog><![CDATA[Minor Changes]]></changelog>
         <source file="Dirt (Git) - Dark (Windows 10).RepaerThemeZip">https://github.com/Fleeesch/DiRT/releases/download/Release/Dirt.-.Dark.-.Win.10.ReaperThemeZip</source>
         <source file="Dirt (Git) - Dark.RepaerThemeZip">https://github.com/Fleeesch/DiRT/releases/download/Release/Dirt.-.Dark.ReaperThemeZip</source>
         <source file="Dirt (Git) - Light.RepaerThemeZip">https://github.com/Fleeesch/DiRT/releases/download/Release/Dirt.-.Light.ReaperThemeZip</source>
+      </version>
+      <version name="1.3" author="Fleeesch" time="2022-12-25T19:29:49Z">
+        <changelog><![CDATA[Minor Changes]]></changelog>
+        <source file="Dirt (Git) - Dark (Windows 10).RepaerThemeZip">https://github.com/Fleeesch/DiRT/releases/download/Release/Dirt.-.Dark.-.Win.10.ReaperThemeZip</source>
+        <source file="Dirt (Git) - Dark.RepaerThemeZip">https://github.com/Fleeesch/DiRT/releases/download/Release/Dirt.-.Dark.ReaperThemeZip</source>
+        <source file="Dirt (Git) - Light.RepaerThemeZip">https://github.com/Fleeesch/DiRT/releases/download/Release/Dirt.-.Light.ReaperThemeZip</source>
+        <source file="Fleeesch - Dirt - Load Set 1.lua">https://raw.githubusercontent.com/Fleeesch/DiRT/main/Fleeesch%20-%20Dirt%20-%20Load%20Set%201.lua</source>
       </version>
       <version name="1.4" author="Fleeesch" time="2022-12-25T19:31:47Z">
         <changelog><![CDATA[Minor Changes]]></changelog>
