@@ -1,8 +1,8 @@
 -- @description Dirt Scripts
 -- @author Fleeesch
--- @version 2.2
+-- @version 2.3
 -- @metapackage
 -- @provides
---   Image.bmp Image.bmp
+--   Dirt (Git) - Light.ReaparThemeZip https://github.com/Fleeesch/DiRT/releases/download/Release/Dirt.-.Light.ReaperThemeZip
 --   [nomain]   Dirt Scripts/_dirt_functions
 --   [main]     Dirt Scripts/*.lua
