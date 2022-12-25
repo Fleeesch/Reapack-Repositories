@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="Fleeesch Reapack Repositories" commit="4fae6f10c20aa663b60abeb1a3ccf971e20737e3">
+<index version="1" name="Fleeesch Reapack Repositories" commit="a410cefe5d0cac152e7cc0a1b4c5b57ecbe97ead">
   <category name="Category">
     <reapack name="dirt.theme" type="theme" desc="Dirt">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 A theme made with multi-generational display-comaptability in mind. More data on less pixels.\par}
+}
+]]></description>
+        <link rel="website" href="https://github.com/Fleeesch/DiRT">Github Repository</link>
+      </metadata>
       <version name="1.0" author="Fleeesch" time="2022-12-25T19:01:29Z">
         <source file="Themefile.zip">https://github.com/Fleeesch/DiRT/releases/download/Release/Dirt.-.Light.ReaperThemeZip</source>
       </version>
