@@ -1,6 +1,6 @@
 -- @description Dirt Scripts
 -- @author Fleeesch
--- @version 1.4
+-- @version 1.5
 -- @metapackage
 -- @provides
 --   [nomain]   Dirt Scripts/_dirt_functions
