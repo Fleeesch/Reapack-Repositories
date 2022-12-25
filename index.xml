@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="Fleeesch Reapack Repositories" commit="6a4189d4edbbfbbe2c1e5193f99e572655b36a5b">
+<index version="1" commit="6a4189d4edbbfbbe2c1e5193f99e572655b36a5b">
   <category name="Category">
     <reapack name="dirt.theme" type="theme" desc="Dirt">
       <metadata>
