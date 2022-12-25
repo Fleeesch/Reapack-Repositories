@@ -3,6 +3,6 @@
 -- @version 2.2
 -- @metapackage
 -- @provides
+--   Image.bmp Image.bmp
 --   [nomain]   Dirt Scripts/_dirt_functions
---   [nomain]   Image.bmp > ColorThemes/Image.bmp
 --   [main]     Dirt Scripts/*.lua
