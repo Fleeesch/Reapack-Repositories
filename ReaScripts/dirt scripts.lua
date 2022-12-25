@@ -1,8 +1,8 @@
 -- @description Dirt Scripts
 -- @author Fleeesch
--- @version 2.3
+-- @version 2.4
 -- @metapackage
 -- @provides
---   Dirt (Git) - Light.ReaparThemeZip https://github.com/Fleeesch/DiRT/releases/download/Release/Dirt.-.Light.ReaperThemeZip
+--   Dirt (Git) - Light.ReaparThemeZip https://github.com/Fleeesch/DiRT/releases/download/Release/Dirt.-.Light.ReaperThemeZip > ColorThemes\Dirt (Git) - Light.ReaparThemeZip
 --   [nomain]   Dirt Scripts/_dirt_functions
 --   [main]     Dirt Scripts/*.lua
