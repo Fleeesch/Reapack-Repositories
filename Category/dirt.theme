@@ -1,0 +1,16 @@
+@description Dirt
+@version 1.0
+@author Fleeesch
+@provides
+    Themefile.zip https://github.com/Fleeesch/DiRT/releases/download/Release/Dirt.-.Dark.-.Win.10.ReaperThemeZip
+@provides    
+    Themefile.zip https://github.com/Fleeesch/DiRT/releases/download/Release/Dirt.-.Dark.ReaperThemeZip
+@provides    
+    Themefile.zip https://github.com/Fleeesch/DiRT/releases/download/Release/Dirt.-.Light.ReaperThemeZip
+
+@links
+    Forum https://github.com/Fleeesch/DiRT
+@about
+    A theme made with multi-generational display-comaptability in mind. More data on less pixels.
+@changelog
+    Initial release.
