@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" commit="b8354a6df7b97d18ab3424fda1eb6b683b717537" name="Fleeesch Reapack Repositories">
+<index version="1" commit="3b3eaa384a52298c6c99e5acaefed48530cacedb" name="Fleeesch Reapack Repositories">
   <category name="ReaScripts">
     <reapack name="dirt scripts.lua" type="script" desc="Dirt Scripts">
       <version name="1.0" time="2022-12-25T20:28:05Z">
@@ -13,6 +13,9 @@
       <version name="1.2" author="Fleeesch" time="2022-12-25T20:40:16Z">
         <source main="main">https://github.com/Fleeesch/Reapack-Repositories/raw/336fb4847e0d4a7dddb29b017238b8e1f4d3aaee/ReaScripts/dirt%20scripts.lua</source>
         <source file="DirtScripts/_dirt_functions">https://github.com/Fleeesch/Reapack-Repositories/raw/336fb4847e0d4a7dddb29b017238b8e1f4d3aaee/ReaScripts/DirtScripts/_dirt_functions</source>
+      </version>
+      <version name="1.3" author="Fleeesch" time="2022-12-25T20:53:38Z">
+        <source file="Dirt Scripts/_dirt_functions">https://github.com/Fleeesch/Reapack-Repositories/raw/3b3eaa384a52298c6c99e5acaefed48530cacedb/ReaScripts/Dirt%20Scripts/_dirt_functions</source>
       </version>
     </reapack>
   </category>
