@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" commit="bac455fff9d84b66e00090f5e85df6f64508f60a" name="Fleeesch Reapack Repositories">
+<index version="1" commit="c3e0b2b273f328d65b5c2022f9bfd458d1ba0d62" name="Fleeesch Reapack Repositories">
   <category name="Themes">
     <reapack name="dirt.theme" type="theme" desc="Dirt">
       <metadata>
@@ -17,6 +17,13 @@
         <source file="Dirt (Git) - Dark (Windows 10).RepaerThemeZip">https://github.com/Fleeesch/DiRT/releases/download/Release/Dirt.-.Dark.-.Win.10.ReaperThemeZip</source>
         <source file="Dirt (Git) - Dark.RepaerThemeZip">https://github.com/Fleeesch/DiRT/releases/download/Release/Dirt.-.Dark.ReaperThemeZip</source>
         <source file="Dirt (Git) - Light.RepaerThemeZip">https://github.com/Fleeesch/DiRT/releases/download/Release/Dirt.-.Light.ReaperThemeZip</source>
+      </version>
+      <version name="1.4" author="Fleeesch" time="2022-12-25T19:31:47Z">
+        <changelog><![CDATA[Minor Changes]]></changelog>
+        <source file="Dirt (Git) - Dark (Windows 10).RepaerThemeZip">https://github.com/Fleeesch/DiRT/releases/download/Release/Dirt.-.Dark.-.Win.10.ReaperThemeZip</source>
+        <source file="Dirt (Git) - Dark.RepaerThemeZip">https://github.com/Fleeesch/DiRT/releases/download/Release/Dirt.-.Dark.ReaperThemeZip</source>
+        <source file="Dirt (Git) - Light.RepaerThemeZip">https://github.com/Fleeesch/DiRT/releases/download/Release/Dirt.-.Light.ReaperThemeZip</source>
+        <source file="Fleeesch - Dirt - Load Set 1.lua">https://raw.githubusercontent.com/Fleeesch/DiRT/main/Fleeesch%20-%20Dirt%20-%20Load%20Set%201.lua</source>
       </version>
     </reapack>
   </category>
