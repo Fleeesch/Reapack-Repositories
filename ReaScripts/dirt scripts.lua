@@ -1,10 +1,7 @@
 -- @description Dirt Scripts
 -- @author Fleeesch
--- @version 1.5
+-- @version 1.0
 -- @metapackage
 -- @provides
 --   [nomain]   Dirt Scripts/_dirt_functions
---   [main]     Dirt Scripts/Fleeesch - Dirt - Load Set 1.lua
---   [main]     Dirt Scripts/Fleeesch - Dirt - Load Set 2.lua
---   [main]     Dirt Scripts/Fleeesch - Dirt - Load Set 3.lua
---   [main]     Dirt Scripts/Fleeesch - Dirt - Load Set 4.lua
+--   [main]     Dirt Scripts/*.lua
